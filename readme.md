@@ -2,12 +2,9 @@
 
 Master’s student in Computer Graphics at the University of Pennsylvania, with a strong interest in real-time rendering, 3D vision, and game design.
 
----
 
 **Education:**  
 BS in Physics and Computer Science, University of Michigan
-
----
 
 **Research Interests:**  
 Currently exploring the intersection of **3D vision** and **neural rendering**, including topics like:
@@ -18,7 +15,6 @@ Currently exploring the intersection of **3D vision** and **neural rendering**, 
 
 Focused on creating fast and high-fidelity scene reconstruction pipelines.
 
----
 
 **Game Design:**  
 Game design is a creative outlet with a focus on:
@@ -28,7 +24,6 @@ Game design is a creative outlet with a focus on:
 
 Prototyping in engines like Unreal Engine 5 and WebGL.
 
----
 
 **Technical Skills:**  
 - **Languages:** C++, Python, GLSL, HLSL  
